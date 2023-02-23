@@ -1,0 +1,37 @@
+/* style.css */
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    background-color: #1CB675;
+    color:#D53E89;
+    text-align: center;
+}
+
+#introduction{
+    color:#5209E3;
+    font-size: 20px;
+}
+
+.standard{
+    width: 500px;
+    height:auto;
+}
+
+.odd{
+    color:#0A6AAD;
+}
+
+.even{
+    color:#F9782A;
+    list-style-type:square;
+}
+
+.odd .link{
+    background-color: #D1F2EB;
+}
+
+.even .link{
+    background-color: #D4E6F1;
+}
