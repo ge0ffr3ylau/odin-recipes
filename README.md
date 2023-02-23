@@ -12,3 +12,7 @@ The objective of this project is to find three different recipes on the internet
 3. An ordered list of steps
 
 Date Completed: 17th Februrary 2023
+
+Further Objectives:
+
+1. External CSS Styling (23rd Februrary 2023)
